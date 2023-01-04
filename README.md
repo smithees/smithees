@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smithees
 - 👀 I’m interested in learning programming/coding again. 
-- 🌱 I’m currently learning the basics again. It's been 7-8 years I think since I last written a code. 
+- 🌱 I’m currently relearning the basics. It's been 7-8 years I think since I last written a code. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
